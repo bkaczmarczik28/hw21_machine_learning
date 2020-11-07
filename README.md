@@ -1,4 +1,6 @@
 # hw21_machine_learning
+UofM Data Visualization Bootcamp
+
 Homework 21 Machine Learning 
 
 Notes on different models for machine learning exoplanet data:
